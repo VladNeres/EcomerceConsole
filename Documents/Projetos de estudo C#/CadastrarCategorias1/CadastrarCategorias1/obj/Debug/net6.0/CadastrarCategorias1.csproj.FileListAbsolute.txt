@@ -1,0 +1,5 @@
+C:\Users\ClearTech\Documents\Projetos de estudo C#\CadastrarCategorias1\CadastrarCategorias1\obj\Debug\net6.0\CadastrarCategorias1.csproj.AssemblyReference.cache
+C:\Users\ClearTech\Documents\Projetos de estudo C#\CadastrarCategorias1\CadastrarCategorias1\obj\Debug\net6.0\CadastrarCategorias1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClearTech\Documents\Projetos de estudo C#\CadastrarCategorias1\CadastrarCategorias1\obj\Debug\net6.0\CadastrarCategorias1.AssemblyInfoInputs.cache
+C:\Users\ClearTech\Documents\Projetos de estudo C#\CadastrarCategorias1\CadastrarCategorias1\obj\Debug\net6.0\CadastrarCategorias1.AssemblyInfo.cs
+C:\Users\ClearTech\Documents\Projetos de estudo C#\CadastrarCategorias1\CadastrarCategorias1\obj\Debug\net6.0\CadastrarCategorias1.csproj.CoreCompileInputs.cache
